@@ -4,7 +4,7 @@ A **Proof of Concept** that uses AI (chatGPT) to generate a resume for a specifi
 
 # Goal
 
-Use AI to generate an "enhanced" resume that is customized for a specific job posting, but that is based on the real skillset and experience of the job candidate.
+Use AI to generate an "enhanced" resume that combines a candidate's actual skills and experience with the requirements defined in the job posting to create a resume that is truthful but optimized for the posting.
 
 # Dependencies
 
