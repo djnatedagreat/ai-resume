@@ -1,0 +1,131 @@
+{
+    "job_posting":
+    {
+        "title": "PHP/Drupal Web Developer at the New York State Senate",
+        "summary": "You will be joining a small group of developers who, from the bottom up, have designed and implemented a number of core services on top of proven open source technologies. These services offer robust user interfaces as well as open, RESTful APIs that are built using Java and PHP, and utilize several open source applications such as: Apache, PHP, Drupal, CiviCRM, MySQL, Tomcat, Maven, Elasticsearch, PostgreSQL, and Memcached. The ideal candidate will be an exceptionally competent programmer, with experience developing large, complex applications in an enterprise environment, an acute attention to detail, and the ability to self manage. In short, the candidate should be highly motivated to produce superior work.",
+        "qualifications":
+        {
+            "required": [
+                "Design, code, test, and deploy new and enhanced web applications and services, including the Senate’s CRM (Constituent Relationship Management) and both the public website (NYSenate.gov) and internal intranet site (MySenate), which are both Drupal projects.",
+                "Work both independently and as part of a collaborative team of technologists.",
+                "Engage with non-technical end users to understand and define business requirements.",
+                "Participate in a dynamic dev environment, moving adeptly between concurrent PHP projects.",
+                "Develop high-quality, reusable components using version control.",
+                "Design applications, APIs, and user interfaces, with an emphasis on usability.",
+                "Write technical specifications, context diagrams, and/or design documents.",
+                "Evaluate and use new technologies, frameworks, and libraries for production systems"
+            ],
+            "useful_experience": [
+                "A degree in Computer Science and two years of programming experience in an enterprise environment, or equivalent technical expertise.",
+                "React, Next.js, Angular, Vue, and/or jQuery.",
+                "Elasticsearch, Lucene, and/or Solr.",
+                "Mobile app development (both platform and web-based) and responsive web design."
+            ],
+            "ideal_experience": [
+                "PHP, Drupal, and/or CiviCRM and associated IDEs such as PHPStorm or Eclipse.",
+                "HTML, CSS, JavaScript, AJAX.",
+                "MySQL, PostgreSQL, and/or Oracle.",
+                "Linux environments, including the Bourne-Again SHell.",
+                "Version Control Systems such as Git and Github.",
+                "PHP documentation generators such as phpDocumentor, phpDox, and Doxygen."
+            ]
+        }
+    },
+    "resume": {
+        "skills": [
+            {
+                "technology": {
+                   "title": "Technology",
+                   "skills": [
+                        "Web and mobile architecting and programing",
+                        "Cloud concepts and implementation",
+                        "Software development lifecycle",
+                        "Agile and Lean development",
+                        "Data reporting and analysis"
+                   ]
+                },
+                "leadership_and_team": {
+                    "title": "Leadership and Collaboration",
+                    "skills": [
+                        "Listening",
+                        "Collaborating",
+                        "Empathizing",
+                        "Providing clear direction and objectives",
+                        "Training and public presentations"
+                    ]
+                },
+                "project_and_operational_management": {
+                    "title": "Project Management and Operations",
+                    "skills": [
+                        "Strategic planning",
+                        "Enterprise systems deployment and management",
+                        "Business process optimization",
+                        "Change management",
+                        "Project scoping, costing and management",
+                        "Enterprise Risk Management"
+                    ]
+                }
+
+            }
+            
+        ],
+        "work_history": [
+            {
+                "title": "Director of Operations",
+                "company": "Mountain Media",
+                "company_description": "Digital Marketing Company",
+                "location": "Ballston Spa, NY",
+                "start": "2022",
+                "end": "now",
+                "responsibilities": [
+                    "day to day operations",
+                    "budgeting",
+                    "financial forecasting",
+                    "ensuring service delivery and quality",
+                    "infrastructure maintenance",
+                    "customer support",
+                    "project management"
+                ]
+            },
+            {
+                "title": "Senior Manager, Digital Innovations and Solutions",
+                "company": "Hyland’s Inc.",
+                "company_description": "Health Products Brand and Manufacturer",
+                "location": "Los Angeles, CA",
+                "start": "2012",
+                "end": "2020",
+                "responsibilities": [
+                    "digital strategy",
+                    "technological innovation",
+                    "education and training related to E-commerce, web, mobile and SEO",
+                    "Chair of the E-commerce ERM (Enterprise Risk Management) committee",
+                    "infrastructure maintenance",
+                    "Corporate Culture ERM committee member",
+                    "Cybersecurity ERM committee member"
+                ]
+            },
+            {
+                "title": "Associate Director of Application Services",
+                "company": "Garnet River, LLC",
+                "company_description": "IT and software development consulting firm",
+                "location": "Saratoga Springs, NY",
+                "start": "2000",
+                "end": "2009",
+                "responsibilities": [
+                    "Lead software architect and developer",
+                    "training clients on use of software",
+                    "job costing and budgeting",
+                    "proposal writing"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "school": "Hofstra University",
+                "location": "Hempstead, NY",
+                "degree": "Bachelor's degree in Communications"
+            }
+        ]
+    }
+
+}
