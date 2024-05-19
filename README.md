@@ -17,7 +17,7 @@ Use AI to generate an "enhanced" resume that is customized for a specific job po
 
     `$ npm install`
 
-2. Create .env and add OpenAI API Key
+2. Create `.env` file in project root and add OpenAI API Key
 
     `OPENAI_API_KEY="sk-..."`
 
@@ -37,5 +37,5 @@ Use AI to generate an "enhanced" resume that is customized for a specific job po
 * Remove all hardcoding
 * Make prompts more flexible by allowing the user to configure the prompt or input their own prompts
 * Better organization of output file
-* In general, this prompt isn't performing to my expectations -- needs improvement
+* In general, this prompt isn't performing to my expectations -- needs more experimentation
 * Separate input into 2 files: resume and posting. Data is currently combined
