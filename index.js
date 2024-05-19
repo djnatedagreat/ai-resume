@@ -24,6 +24,8 @@ function readJsonFile(filePath) {
  * @todo make output file a parameter
  */
 function writeMarkdownFile(content) {
+  // hardcoding for quick proof of concept. Would typically pass in an argument, 
+  // or at least base the file name on the name of the input file.
   fs.writeFile('results.md', content, err => {
     if (err) {
       console.error(err);
@@ -65,6 +67,7 @@ async function sendQueryToChatGPT() {
 }
 
 // Specify the path to your JSON file
+// This should be controlled by a command line arg instead of hardcoding
 const jsonFilePath = 'postings/NYS_Senate.json';
 
 // Read JSON data from the file
