@@ -36,7 +36,7 @@ function writeMarkdownFile(content) {
 }
 
 /**
- * Creates ChatGPT prompt and queries API
+ * Creates ChatGPT prompt and query API
  * @returns results from ChatGPT
  * @todo don't use global const... pass in jsonData as parameter
  * @todo a lot of possibilities here
@@ -67,7 +67,7 @@ async function sendQueryToChatGPT() {
 }
 
 // Specify the path to your JSON file
-// This should be controlled by a command line arg instead of hardcoding
+// This should at least be controlled by a command line arg or config instead of hardcoding
 const jsonFilePath = 'postings/NYS_Senate.json';
 
 // Read JSON data from the file
